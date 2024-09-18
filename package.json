@@ -45,7 +45,8 @@
     "hygen": "^6.0.4",
     "prettier": "^2.1.2",
     "ts-loader": "^8.0.5",
-    "storybook": "^6.5.15"
+    "storybook": "^6.5.15",
+    "jest": "^26.5.3"
   },
   "dependencies": {
     "@babel/core": "^7.11.6",
@@ -55,7 +56,6 @@
     "chromatic": "^6.5.1",
     "dotenv-cli": "^5.0.0",
     "downshift": "^6.0.6",
-    "jest": "^26.5.3",
     "moment": "^2.29.1",
     "rc-dropdown": "^3.2.0",
     "rc-menu": "^9.0.11",
