@@ -44,7 +44,8 @@
     "eslint-plugin-standard": "^4.0.1",
     "hygen": "^6.0.4",
     "prettier": "^2.1.2",
-    "storybook": "^6.5.15"
+    "storybook": "^6.5.15",
+    "ts-loader": "^8.0.5"
   },
   "dependencies": {
     "@babel/core": "^7.11.6",
@@ -72,7 +73,6 @@
     "styled-components": "^5.3.5",
     "styled-system": "^5.1.5",
     "ts-jest": "^26.4.1",
-    "ts-loader": "^8.0.5",
     "typescript": "^5.6.2"
   }
 }
